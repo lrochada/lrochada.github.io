@@ -2,16 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Ecole Centrale de Nantes</a>. 1 rue de la Noë, 4431 Nantes Cedex 3. Contacts. Motto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: luisa_silva_id.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> GeM – Institut de Recherche en Génie Civil et Mécanique </p>
+    <p> GLiCID - Groupement Ligérien en Calcul Intensif </p>
+    <p> Ecole Centrale de Nantes </p>
+    <p> Phone: +33 (0)2 55 58 90 14 </p>
+	<p> E-mail: luisa.rocha-da-silva@ec-nantes.fr </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
