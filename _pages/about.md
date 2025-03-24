@@ -13,7 +13,7 @@ profile:
     <p> GLiCID - Groupement Ligérien en Calcul Intensif </p>
     <p> Ecole Centrale de Nantes </p>
     <p> Phone: +33 (0)2 55 58 90 14 </p>
-	<p> E-mail: luisa.rocha-da-silva@ec-nantes.fr </p>
+    <p> E-mail: luisa.rocha-da-silva@ec-nantes.fr </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
