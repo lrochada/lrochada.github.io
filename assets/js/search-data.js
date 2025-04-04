@@ -72,7 +72,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "nav-ici-tech",
+          title: "ici-tech",
+          description: "Softwares developed",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/ici-tech/";
+          },
+        },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
         
