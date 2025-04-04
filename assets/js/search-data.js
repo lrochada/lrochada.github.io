@@ -58,12 +58,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-numerical-rheometer",
+              title: "numerical-rheometer",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
+                window.location.href = "/numerical-rheometer/";
               },
             },{id: "dropdown-blog",
               title: "blog",
