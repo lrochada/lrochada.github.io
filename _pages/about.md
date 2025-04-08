@@ -9,9 +9,10 @@ profile:
   image: luisa_silva_id.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> GeM – Institut de Recherche en Génie Civil et Mécanique </p>
-    <p> GLiCID - Groupement Ligérien en Calcul Intensif </p>
-    <p> Ecole Centrale de Nantes </p>
+  <p><small>GeM – Institut de Recherche en Génie Civil et Mécanique</small></p>
+  <p><small>GLiCID - Groupement Ligérien en Calcul Intensif</small></p>
+  <p><small>Ecole Centrale de Nantes</small></p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
