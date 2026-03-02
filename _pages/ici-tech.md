@@ -1,11 +1,18 @@
 ---
 layout: page
 permalink: /ici-tech/
-title: ici-tech
-description: Softwares developed
+title: software & codes
+description: Research software, HPC tools, and open resources.
 nav: true
-nav_order: 67
+nav_order: 7
 ---
 
-For now, this page is assumed to be a static description of your ici-tech. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## ICI-tech
 
+Within the Institut de Calcul Intensif (ICI) and later GeM/GLiCID, we built a software library called **ICI-tech** to consolidate reusable components (numerical methods, meshing/adaptation, HPC kernels) and to mature developments towards technology transfer.
+
+I have been the **scientific lead** for the derived applications since 2015.
+
+## Rem3D (Transvalor)
+
+I also served as scientific lead for the development of the **Rem3D** software and its extensions (Transvalor), with a focus on numerical methods and high-performance computing.

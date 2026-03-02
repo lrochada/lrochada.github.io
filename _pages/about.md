@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Ecole Centrale de Nantes</a>
+subtitle: <a href='https://www.ec-nantes.fr/'>École Centrale de Nantes</a> · GeM (CNRS UMR 6183) · GLiCID
 
 profile:
   align: left
@@ -27,9 +27,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a **Professor (Professeure des Universités)** in **Computational Mechanics / Numerical Methods** at **École Centrale de Nantes**, with appointments in **GeM (CNRS UMR 6183)** and the regional HPC unit **GLiCID**.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on **robust finite element methods** (stable/stabilized formulations, monolithic strategies, adaptive meshing) for **multiphase flows and complex fluids**, including **interface tracking (level-set)** and **phase-change phenomena**. I also work on applications in **digital materials** (microstructure generation/reconstruction, multiscale flow simulations) and **materials processing** (polymers and polymer-matrix composites). More recently, I develop and supervise efforts at the interface between **HPC and AI**, including **model order reduction** and **physics-informed / model-informed data-driven approaches**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+On the education side, I teach numerical analysis, scientific programming (C++/Python), linear algebra, probability/statistics, and topics such as quantum computing and AI for decision support. Since 2020, I have co-directed the international **BBA Data, AI & Management** programme (Centrale Nantes × Audencia × Centrale Casablanca).

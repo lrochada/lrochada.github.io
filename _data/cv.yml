@@ -2,96 +2,110 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Luisa Alexandra Rocha da Silva
+    - name: Current position
+      value: Professor (Professeure des Universités), Computational Mechanics / Numerical Methods
+    - name: Affiliation
+      value: École Centrale de Nantes · GeM (CNRS UMR 6183) · GLiCID
+    - name: Discipline / section
+      value: Mécanique numérique (CNU section 60)
+    - name: Research areas
+      value: Finite elements; multiphase & complex flows; adaptive meshing; level-set; digital materials; materials processing; HPC–AI; reduced order modeling
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: HDR (Habilitation à Diriger des Recherches)
+      institution: Université de Nantes (ED SPI)
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Simulation numérique d’écoulements multiphasiques complexes avec des approches monolithiques et frontières implicites. Matériaux numériques et mise en forme."
+    - title: PhD in Computational Mechanics
+      institution: MINES ParisTech (Centre de Mise en Forme des Matériaux, CNRS UMR 7635)
+      year: 2004
       description:
-        - Description 1.
-        - Description 2.
+        - "Viscoelastic Compressible Flows and Applications in 3D Injection Moulding Simulation."
+    - title: MSc (Mestrado) in Mechanical Engineering
+      institution: Faculdade de Engenharia da Universidade do Porto (Portugal)
+      year: 2001
+      description:
+        - "Modeling of Newtonian and Generalised Newtonian Transport Flow. Applications in Polymer Injection Moulding."
+    - title: Engineering degree (Mechanical Engineering)
+      institution: Faculdade de Engenharia da Universidade do Porto (Portugal)
+      year: 1998
+      description:
+        - "Ranked 1st/125 (major de promotion)."
 
-- title: Experience
+- title: Academic & Research Positions
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Professor (2nd class)
+      institution: École Centrale de Nantes · GeM (CNRS UMR 6183) · GLiCID
+      year: 2025 – present
+    - title: Contract Professor (2nd class)
+      institution: École Centrale de Nantes · GeM (CNRS UMR 6183) · GLiCID
+      year: 2020 – 2025
+    - title: Research Scientist (Chargée de recherche)
+      institution: École Centrale de Nantes, Institut de Calcul Intensif (ICI)
+      year: 2014 – 2020
+    - title: Research Scientist (Chargée de recherche)
+      institution: MINES ParisTech, CEMEF (CNRS UMR 7635)
+      year: 2007 – 2014
+    - title: Research Associate (Attachée de recherche)
+      institution: MINES ParisTech, CEMEF (CNRS UMR 7635)
+      year: 2004 – 2007
+    - title: Lecturer / Teaching Assistant (Maître-Assistant)
+      institution: Universidade do Porto, Department of Mechanical Engineering
+      year: 1998 – 2004
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Atos – Joseph Fourier Prize (Simulation numérique / calcul intensif)
+      institution: France
+      year: 2019
+    - title: Highly Commended Award Winner (Literati Network Awards for Excellence)
+      institution: Engineering Computations
+      year: 2008
+    - title: Fundação Engenheiro António de Almeida Prize (major de promotion)
+      institution: Portugal
+      year: 1998
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Teaching & Programme Leadership
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Teaching themes (Centrale Nantes)
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Numerical analysis (PDE approximation: FEM/FDM/FVM; interpolation; integration; constrained optimisation)
+        - Linear algebra; probability & statistics
+        - Algorithms & data structures
+        - Scientific programming (C++, Python) and scientific computing
+        - Quantum computing; AI and decision support; research methodology
+    - title: Programme leadership
       items:
-        - Description 1.
-        - Description 2.
+        - Co-director, BBA Data, AI & Management (Centrale Nantes × Audencia × Centrale Casablanca), since 2020
 
-- title: Other Interests
+- title: Research Metrics (career)
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Peer-reviewed journal articles: 31"
+    - "Book chapters: 12"
+    - "Conference communications: 73"
+    - "PhD theses supervised/co-supervised (completed): 15; ongoing: 4"
+    - "Postdocs supervised: 7"
+
+- title: Leadership & Service (selected)
+  type: time_table
+  contents:
+    - title: Deputy Director, GLiCID (HPC & data infrastructures)
+      institution: École Centrale de Nantes
+      year: 2022 – present
+    - title: Director, Institut de Calcul Intensif (ICI)
+      institution: École Centrale de Nantes
+      year: 2017 – 2022
+    - title: President, “Matériau Numérique” thematic commission (SF2M)
+      institution: Société Française de Métallurgie et de Matériaux
+      year: 2017 – 2024
+    - title: Vice-President, BuX network (Bull eXtreme Computing Group)
+      institution: BuX
+      year: 2017 – 2020
