@@ -27,7 +27,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a **Professor (Professeure des Universités)** in **Computational Mechanics / Numerical Methods** at **École Centrale de Nantes**, with appointments in **GeM (CNRS UMR 6183)** and the regional HPC unit **GLiCID**.
+I am a **Full Professor (Professeure des Universités)** in **Computational Mechanics / Numerical Methods** at **École Centrale de Nantes**, with appointments in **GeM (CNRS UMR 6183)** and the regional HPC unit **GLiCID**.
 
 My research focuses on **robust finite element methods** (stable/stabilized formulations, monolithic strategies, adaptive meshing) for **multiphase flows and complex fluids**, including **interface tracking (level-set)** and **phase-change phenomena**. I also work on applications in **digital materials** (microstructure generation/reconstruction, multiscale flow simulations) and **materials processing** (polymers and polymer-matrix composites). More recently, I develop and supervise efforts at the interface between **HPC and AI**, including **model order reduction** and **physics-informed / model-informed data-driven approaches**.
 
